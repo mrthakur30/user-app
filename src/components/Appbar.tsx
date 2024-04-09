@@ -4,9 +4,6 @@ function Appbar() {
   return (
     <div>
       Appbar
-
-
-      
     </div>
   );
 }
